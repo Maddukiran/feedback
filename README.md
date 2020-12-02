@@ -17,4 +17,4 @@
 - [ ] [Lidya](lidya.md) - BloodBankApp
 - [ ] [Adveya Singh](adveya.md) - Car Rental App
 - [ ] [Hitesh Sharma](hitesh.md) - Web Security App
-- [ ] Sudharshan - Doctor Appointment app
+- [ ] [Sudharshan](sudharshan.md) - Doctor Appointment app
