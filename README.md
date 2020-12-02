@@ -1,20 +1,20 @@
 # Feedback 
 
-- [ ] [Ishwarya](ishwarya) - Assessment App
-- [ ] [Sushmitha](sushmita) - Holiday Planner app
-- [ ] [Lakshmi](lakshmi) - ShoppingApp
-- [ ] [Tushant](tushant) - TicketApp
-- [ ] [Ashwini](ashwini) - CateringApp
-- [ ] [Priyaroja](priyaroja) - CharityApp
-- [ ] [Kiran Maddu](kiran) - TodoApp
-- [ ] [Paras Jalhotra](paras) - Bus Ticket App
-- [ ] [Pasam Pavithra](pavithra) - LibraryApp
-- [ ] [Dinesh](dinesh) - Recharge App
-- [ ] [Diksha](diksha) - Food Order App
-- [ ] [Celshia](celshia) - Movie Ticket App
-- [ ] [Prasanjeet Das](prasanjeet) - Leave Management System
-- [ ] [Sai Brindha](saibrindha) - Train Ticket Booking App
-- [ ] [Lidya](lidya) - BloodBankApp
-- [ ] [Adveya Singh](adveya) - Car Rental App
-- [ ] [Hitesh Sharma](hitesh) - Web Security App
+- [ ] [Ishwarya](ishwarya.md) - Assessment App
+- [ ] [Sushmitha](sushmita.md) - Holiday Planner app
+- [ ] [Lakshmi](lakshmi.md) - ShoppingApp
+- [ ] [Tushant](tushant.md) - TicketApp
+- [ ] [Ashwini](ashwini.md) - CateringApp
+- [ ] [Priyaroja](priyaroja.md) - CharityApp
+- [ ] [Kiran Maddu](kiran.md) - TodoApp
+- [ ] [Paras Jalhotra](paras.md) - Bus Ticket App
+- [ ] [Pasam Pavithra](pavithra.md) - LibraryApp
+- [ ] [Dinesh](dinesh.md) - Recharge App
+- [ ] [Diksha](diksha.md) - Food Order App
+- [ ] [Celshia](celshia.md) - Movie Ticket App
+- [ ] [Prasanjeet Das](prasanjeet.md) - Leave Management System
+- [ ] [Sai Brindha](saibrindha.md) - Train Ticket Booking App
+- [ ] [Lidya](lidya.md) - BloodBankApp
+- [ ] [Adveya Singh](adveya.md) - Car Rental App
+- [ ] [Hitesh Sharma](hitesh.md) - Web Security App
 - [ ] Sudharshan - Doctor Appointment app
