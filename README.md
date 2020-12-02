@@ -6,7 +6,6 @@
 - [ ] [Tushant](tushant) - TicketApp
 - [ ] [Ashwini](ashwini) - CateringApp
 - [ ] [Priyaroja](priyaroja) - CharityApp
-- [ ] [Sudharshan](sudharshan) - Doctor Appointment app
 - [ ] [Kiran Maddu](kiran) - TodoApp
 - [ ] [Paras Jalhotra](paras) - Bus Ticket App
 - [ ] [Pasam Pavithra](pavithra) - LibraryApp
@@ -18,3 +17,4 @@
 - [ ] [Lidya](lidya) - BloodBankApp
 - [ ] [Adveya Singh](adveya) - Car Rental App
 - [ ] [Hitesh Sharma](hitesh) - Web Security App
+- [ ] Sudharshan - Doctor Appointment app
