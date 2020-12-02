@@ -1,11 +1,11 @@
 # Feedback 
 
 - [ ] [Ishwarya](ishwarya.md) - Assessment App
-- [ ] [Sushmitha](sushmita.md) - Holiday Planner app
+- [x] [Sushmitha](sushmita.md) - Holiday Planner app
 - [ ] [Lakshmi](lakshmi.md) - ShoppingApp
-- [ ] [Tushant](tushant.md) - TicketApp
+- [x] [Tushant](tushant.md) - TicketApp
 - [ ] [Ashwini](ashwini.md) - CateringApp
-- [ ] [Priyaroja](priyaroja.md) - CharityApp
+- [x] [Priyaroja](priyaroja.md) - CharityApp
 - [x] [Kiran Maddu](kiran.md) - TodoApp
 - [x] [Paras Jalhotra](paras.md) - Bus Ticket App
 - [ ] [Pasam Pavithra](pavithra.md) - LibraryApp
