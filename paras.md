@@ -4,7 +4,7 @@
 ## ⚡ Technologies
 
 * **Programming Languages**: `Javascript` 
-* **Web Frameworks**: `Angular` `Nodejs`
+* **Web Frameworks**: `Angular`
 * **Databases**: `MySQL` 
 
 ##### Strengths
@@ -19,6 +19,7 @@
 - [ ] Follow JavaScript Naming Standards
 - [ ] Write reusable code
 - [ ] Talk to mentor, have a plan on what areas to improve on.
+- [ ] Implement more complex scenarions in your project.
 
 ##### Overall
 
