@@ -15,6 +15,6 @@
 - [ ] [Prasanjeet Das](prasanjeet.md) - Leave Management System
 - [ ] [Sai Brindha](saibrindha.md) - Train Ticket Booking App
 - [ ] [Lidya](lidya.md) - BloodBankApp
-- [ ] [Adveya Singh](adveya.md) - Car Rental App
+- [x] [Adveya Singh](adveya.md) - Car Rental App
 - [ ] [Hitesh Sharma](hitesh.md) - Web Security App
 - [ ] [Sudharshan](sudharshan.md) - Doctor Appointment app
