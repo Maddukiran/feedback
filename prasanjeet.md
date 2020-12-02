@@ -4,7 +4,7 @@
 ## ⚡ Technologies
 
 * **Programming Languages**: `Javascript` 
-* **Web Frameworks**: `Angular` `Nodejs`
+* **Web Frameworks**: 
 * **Databases**: `MySQL` 
 
 ## Strengths
@@ -14,9 +14,13 @@
 
 ## Areas of Improvement/Suggestions
 
-*  Validations must be used consistenly
+*  Project Commitment needs to be improved
+*  Frequently interact with mentors to clarify the requirement questions 
+*  Code needs to be frequently committed.
+*  Validations must be used consistenly in all the pages.
 *  Remove unused links in the project ( majority of links are not working)
 *  Minimum Viable Product(MVP) is missing
+
 
 ## Overall
 
