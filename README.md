@@ -8,7 +8,7 @@
 - [x] [Priyaroja](priyaroja.md) - CharityApp
 - [x] [Kiran Maddu](kiran.md) - TodoApp
 - [x] [Paras Jalhotra](paras.md) - Bus Ticket App
-- [ ] [Pasam Pavithra](pavithra.md) - LibraryApp
+- [x] [Pasam Pavithra](pavithra.md) - LibraryApp
 - [ ] [Dinesh](dinesh.md) - Recharge App
 - [ ] [Diksha](diksha.md) - Food Order App
 - [x] [Celshia](celshia.md) - Movie Ticket App
