@@ -6,7 +6,7 @@
 
 ## ⚡ Technologies
 
-* **Programming Languages**: `Javascript` 
+* **Programming Languages**: ``Javascript` `TypeScript` 
 * **Web Frameworks**: `Angular` `Nodejs`
 * **Databases**: `MySQL` 
 
