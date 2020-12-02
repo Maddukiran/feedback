@@ -9,8 +9,7 @@
 
 ## Strengths
 
-* Good Design for Login/Register feature ( Used Tabs )
-* 
+* Good Design for Login/Register feature ( Used Tabs ) 
 
 ## Areas of Improvement/Suggestions
 
