@@ -12,7 +12,7 @@
 - [ ] Prepare a learning plan
 - [ ] Develop features in the project.
 - [ ] Node REST API Yet to start
-- [ ] Angular Project Yet to start
+- [ ] Angular Project Started ( Prerequisite: After completing JavaScript project, work on Angular project)
 - [ ] Minimum Viable Product(MVP) is not yet completed
 
 ## Overall
